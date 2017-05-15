@@ -16,7 +16,7 @@
 		* Json files.
 		*/
 			if(isset($_POST['submit'])) {
-				if($_POST['pass'] == "Buzz1234"){
+				if($_POST['pass'] == "paskdkhgajsklkdash"){
 					echo "Success, please wait while the next page loads";
 					//Bellow was gutted as per Client request. Was a simple HTTP Request to Google for a code.
 					//Moved to keys2 after receiving a response.
